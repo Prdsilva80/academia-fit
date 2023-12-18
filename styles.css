@@ -3,9 +3,9 @@
 :root {
   --primary-color: #f92524;
   --primary-color-dark: #e91a1a;
-  --secondary-color: #faf9fe;
+  --secondary-color: #D3D3D3;
   --text-dark: #0f172a;
-  --text-light: #64748b;
+  --text-light: #4F4F4F;
   --white: #ffffff;
   --max-width: 1200px;
 }
